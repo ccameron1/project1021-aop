@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\carly\eclipse-workspace\workspace4380\projects2-aop-1021-cameron\.metadata\.plugins\org.eclipse.jdt.core
+3064465681.index
+360068958.index
